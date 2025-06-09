@@ -41,5 +41,30 @@
 
 ## 🔧 Configuration
 
-All game-specific offsets can be found and updated in:
+All game-specific offsets can be found and updated in: /includes/offsets.hpp
+
+
+Update them as needed to stay compatible with the latest Fortnite version.
+
+---
+
+## ⚠️ Disclaimer
+
+> This project is provided for **educational purposes only**.  
+> The author does **not condone cheating** in online games.  
+> You are solely responsible for how you use this code.
+
+---
+
+## 🧠 Notes
+
+- The source is currently **undetected**.
+- This project **requires a driver**. If you do not have one, contact me.
+- An injector or loader can be provided on request.
+- Built with ultrawide monitor compatibility in mind.
+
+---
+
+> 💬 For support, driver requests, or custom loaders, contact me on Discord: `temu_manager`
+
 
