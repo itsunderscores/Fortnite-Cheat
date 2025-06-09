@@ -1,48 +1,47 @@
-# 🧀 Fortnite Cheat
+# 🧀 Fortnite Cheese
 
-**Fortnite Cheat** is an advanced internal cheat source for Fortnite, offering a clean and modular C++ base featuring both an aimbot and ESP system. This repository contains the source code only — a driver is required to function.
+**Fortnite Cheese** is an advanced internal cheat source for Fortnite, written in C++. It features a clean, modular architecture with powerful aimbot and ESP functionality. This repository includes only the **source code** — you’ll need a **driver** to make it work.
 
-> ⚠️ You must supply or request a driver to use this project.  
-> 👉 Contact me on Discord: `temu_manager` to obtain a compatible undetected driver or injector/loader.
+> ⚠️ A driver is required. You can provide your own or request one.  
+> 💬 Contact on Discord: `temu_manager` to obtain an undetected driver or loader.
 
 ---
 
 ## 📦 Features
 
 ### 🎯 Aimbot
-- Smooth Aiming  
-- Configurable FOV Circle  
-  - Adjustable Size  
-- Selectable Aimbot Key  
+- Smooth aiming
+- Show FOV
+  - Adjustable FOV size
+- Custom aimbot key
 
 ### 👁️ ESP (Visuals)
-- Cornered Box  
-- Filled Box  
-- Skeleton ESP  
-- 3D Box  
-- Snaplines (Draw Line)  
-- Distance Display  
+- Cornered box ESP
+- Filled box ESP
+- Skeleton ESP
+- 3D box
+- Snaplines (draw line)
+- Player distance display
 
 ### ⚙️ Other
-- Crosshair Overlay  
-- Radar System  
-- Config System (Save / Load)  
-- Ultrawide Support (Custom Resolution)  
-- Hotkey to Unload Cheat  
+- Crosshair overlay
+- Radar (2D mini-map)
+- Config system (load/save)
+- **Ultrawide monitor compatibility** (custom resolution support)
+- Option to unload the cheat on the fly
 
 ---
 
 ## 📌 Requirements
 
-- ✅ [Visual Studio 2022](https://visualstudio.microsoft.com/)  
+- ✅ [Visual Studio 2022](https://visualstudio.microsoft.com/)
 - ✅ [Windows SDK (June 2010)](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
 
 ---
 
-## 🔧 Configuration
+## 🔧 Offset Configuration
 
-All game-specific offsets can be found and updated in: /includes/offsets.hpp
-
+Game offsets are stored in: /includes/offsets.hpp
 
 Update them as needed to stay compatible with the latest Fortnite version.
 
@@ -61,10 +60,8 @@ Update them as needed to stay compatible with the latest Fortnite version.
 - The source is currently **undetected**.
 - This project **requires a driver**. If you do not have one, contact me.
 - An injector or loader can be provided on request.
-- Built with ultrawide monitor compatibility in mind.
+- Built with **ultrawide monitor support** in mind.
 
 ---
 
 > 💬 For support, driver requests, or custom loaders, contact me on Discord: `temu_manager`
-
-
