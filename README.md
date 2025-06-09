@@ -1,6 +1,6 @@
-# 🧀 Fortnite Cheese
+# 🧀 Fortnite Cheat
 
-**Fortnite Cheese** is an advanced internal cheat source for Fortnite, offering a clean and modular C++ base featuring both an aimbot and ESP system. This repository contains the source code only — a driver is required to function.
+**Fortnite Cheat** is an advanced internal cheat source for Fortnite, offering a clean and modular C++ base featuring both an aimbot and ESP system. This repository contains the source code only — a driver is required to function.
 
 > ⚠️ You must supply or request a driver to use this project.  
 > 👉 Contact me on Discord: `temu_manager` to obtain a compatible undetected driver or injector/loader.
@@ -28,7 +28,7 @@
 - Radar System  
 - Config System (Save / Load)  
 - Ultrawide Support (Custom Resolution)  
-- Hotkey to Unload Cheese  
+- Hotkey to Unload Cheat  
 
 ---
 
