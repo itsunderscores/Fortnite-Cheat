@@ -1,6 +1,6 @@
-# 🧀 Fortnite Cheese
+# 🧀 Fortnite Cheat
 
-**Fortnite Cheese** is an advanced internal cheat source for Fortnite, written in C++. It features a clean, modular architecture with powerful aimbot and ESP functionality. This repository includes only the **source code** — you’ll need a **driver** to make it work.
+**Fortnite Cheat** is an advanced internal cheat source for Fortnite, written in C++. It features a clean, modular architecture with powerful aimbot and ESP functionality. This repository includes only the **source code** — you’ll need a **driver** to make it work.
 
 > ⚠️ A driver is required. You can provide your own or request one.  
 > 💬 Contact on Discord: `temu_manager` to obtain an undetected driver or loader.
